@@ -1,14 +1,14 @@
 //
-//  LAMergeImage.m
-//  LAACE
+//  NHMergeImages.m
+//  NHMergeImages
 //
 //  Created by Nathan Hegedus on 10/29/12.
 //  Copyright (c) 2012 Nathan Hegedus. All rights reserved.
 //
 
-#import "NHMergeImage.h"
+#import "NHMergeImages.h"
 
-@implementation NHMergeImage
+@implementation NHMergeImages
 
 +(UIImage *)mergeImagesWith:(UIImage *)firstImage andSecondImage:(UIImage *)secondImage withSize:(CGSize)size{
     
